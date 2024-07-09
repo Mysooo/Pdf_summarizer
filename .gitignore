@@ -3,3 +3,4 @@ venv/
 
 # Ignore FAISS index directory
 faiss_index/
+.env/
